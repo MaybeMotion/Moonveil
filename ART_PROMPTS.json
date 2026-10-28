@@ -1,0 +1,74 @@
+[
+  {
+    "key": "sanctuary",
+    "prompt": "Use case: stylized-concept. Asset type: environment background for an original anime idle game called Moonveil. Primary request: a breathtaking Japanese fantasy shrine garden floating in the sky, a small elegant vermilion torii on the right, ancient stone terrace in foreground, cascading waterfalls and layered blue-violet mountain islands, a huge pale moon, blooming pink sakura branches framing the upper left, blue glowing flowers, drifting luminous petals. Style: exceptionally polished hand painted anime game environment, painterly depth, intricate foliage, luminous twilight, beautiful violet, blush pink and jade teal palette. Composition: wide landscape 16:9, flat walkable stone terrace occupies lower quarter, clear unobstructed middle for game sprites. No people, no creatures, no typography, no logo, no UI, no watermark.",
+    "file": "assets/sanctuary.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "heroine",
+    "prompt": "Use case: stylized-concept. Asset type: isolated character sprite for an original premium anime idle game. Primary request: full body adult female moon shrine swordswoman, long flowing pale silver hair with lavender ends, elegant layered midnight navy and ivory kimono combat dress, pink sash and delicate gold celestial ornaments, black thigh high boots, holding a slender luminous pale blue katana pointed diagonally down in her right hand. Calm confident expression, beautiful expressive lavender eyes, dynamic three quarter stance facing toward the right, fabric and hair floating lightly. Style: extremely polished hand painted anime RPG character illustration, crisp elegant silhouette and intricate costume details, soft cel shading and rim light. Entire character including sword, feet and hair visible with generous transparent margin. Transparent background, isolated single character. No text, no UI, no watermark.",
+    "file": "assets/heroine.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "moonfox",
+    "prompt": "Use case: stylized-concept. Asset type: isolated enemy creature sprite for an original anime idle RPG. Primary request: adorable yet magical large moon spirit fox, floating in a curled leaping pose facing left, oversized fluffy curled lavender tails with glowing cyan tips, ivory fox mask-like face, bright sapphire eyes, crescent moon gold forehead ornament, deep indigo fur markings and pale blue glowing magical wisps circling the fox. Style: exceptionally polished hand painted anime fantasy RPG monster art, clean silhouette, cel shading, rich luminous colors and beautiful magical effects. Full body all tails and ears visible, generous margin, single creature centered. Transparent background, no ground, no text, no UI, no watermark.",
+    "file": "assets/moonfox.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "ren",
+    "prompt": "Use case: stylized-concept. Asset type: companion character portrait for the original anime idle RPG Moonveil. Primary request: an adult male wandering ronin with windswept dark teal hair, jade eyes, elegant charcoal and teal samurai clothing, a katana resting behind his shoulder, a kind confident expression. Style: exquisitely polished hand painted anime RPG character art, crisp silhouette and beautiful intricate costume details, gentle cel shading and luminous rim light. Composition: waist up portrait facing slightly toward camera, centered with head and shoulders entirely visible and generous margin, square image. Isolated single character on a transparent background. No letters, no text, no interface, no watermark.",
+    "file": "assets/ren.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "mizuki",
+    "prompt": "Use case: stylized-concept. Asset type: companion character portrait for the original anime idle RPG Moonveil. Primary request: an adult female tide oracle with flowing aqua hair, a pearl hair ornament, elegant white and seafoam robes, a floating water orb, serene blue eyes. Style: exquisitely polished hand painted anime RPG character art, crisp silhouette and beautiful intricate costume details, gentle cel shading and luminous rim light. Composition: waist up portrait facing slightly toward camera, centered with head and shoulders entirely visible and generous margin, square image. Isolated single character on a transparent background. No letters, no text, no interface, no watermark.",
+    "file": "assets/mizuki.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "akari",
+    "prompt": "Use case: stylized-concept. Asset type: companion character portrait for the original anime idle RPG Moonveil. Primary request: an adult female lantern keeper with amber eyes and long auburn hair, warm red and gold festival robes, holding an intricate glowing paper lantern, gentle smile. Style: exquisitely polished hand painted anime RPG character art, crisp silhouette and beautiful intricate costume details, gentle cel shading and luminous rim light. Composition: waist up portrait facing slightly toward camera, centered with head and shoulders entirely visible and generous margin, square image. Isolated single character on a transparent background. No letters, no text, no interface, no watermark.",
+    "file": "assets/akari.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "yoru",
+    "prompt": "Use case: stylized-concept. Asset type: companion character portrait for the original anime idle RPG Moonveil. Primary request: an adult male dream mage with long dark indigo hair, violet eyes and elegant midnight purple embroidered robes, a floating violet dream crystal and delicate gold earrings, calm mysterious expression. Style: exquisitely polished hand painted anime RPG character art, crisp silhouette and beautiful intricate costume details, gentle cel shading and luminous rim light. Composition: waist up portrait facing slightly toward camera, centered with head and shoulders entirely visible and generous margin, square image. Isolated single character on a transparent background. No letters, no text, no interface, no watermark.",
+    "file": "assets/yoru.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "tsukiko",
+    "prompt": "Use case: stylized-concept. Asset type: companion character portrait for the original anime idle RPG Moonveil. Primary request: an adult female moon sovereign with long white hair, golden eyes and an ornate celestial crescent tiara, black and ivory royal kimono, gold constellation ornaments, graceful luminous presence. Style: exquisitely polished hand painted anime RPG character art, crisp silhouette and beautiful intricate costume details, gentle cel shading and luminous rim light. Composition: waist up portrait facing slightly toward camera, centered with head and shoulders entirely visible and generous margin, square image. Isolated single character on a transparent background. No letters, no text, no interface, no watermark.",
+    "file": "assets/tsukiko.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "jade",
+    "prompt": "Use case: stylized-concept. Asset type: a world background for the original anime idle RPG Moonveil. Primary request: an enchanted jade bamboo forest under a silver moon, mossy stone lanterns, teal fireflies, glowing cyan pools and a winding stream, colossal ancient trees and a little wooden shrine, ethereal green mist. Style: exquisite polished hand painted anime game environment, painterly detail, depth, luminous magical lighting. Composition: landscape 16:9, empty flat stone battle terrace across the lower quarter, scenery framing the sides, clear unobstructed middle for overlaying character sprites. No people, no creatures, no text, no logo, no interface, no watermark.",
+    "file": "assets/jade.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "twilight",
+    "prompt": "Use case: stylized-concept. Asset type: a world background for the original anime idle RPG Moonveil. Primary request: a breathtaking archipelago of floating crystal islands at deep purple twilight, luminous waterfalls falling through cloud seas, violet wisteria, suspended bridges, constellations and a huge pale crescent moon. Style: exquisite polished hand painted anime game environment, painterly detail, depth, luminous magical lighting. Composition: landscape 16:9, empty flat stone battle terrace across the lower quarter, scenery framing the sides, clear unobstructed middle for overlaying character sprites. No people, no creatures, no text, no logo, no interface, no watermark.",
+    "file": "assets/twilight.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "ember",
+    "prompt": "Use case: stylized-concept. Asset type: a world background for the original anime idle RPG Moonveil. Primary request: an ancient Japanese celestial observatory on a volcanic mountaintop at night, warm glowing amber lanterns, crimson maple trees, ornate brass astronomical instruments, distant glowing lava rivers beneath star filled indigo skies. Style: exquisite polished hand painted anime game environment, painterly detail, depth, luminous magical lighting. Composition: landscape 16:9, empty flat stone battle terrace across the lower quarter, scenery framing the sides, clear unobstructed middle for overlaying character sprites. No people, no creatures, no text, no logo, no interface, no watermark.",
+    "file": "assets/ember.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "palace",
+    "prompt": "Use case: stylized-concept. Asset type: a world background for the original anime idle RPG Moonveil. Primary request: an opulent celestial Japanese moon palace, pearl white marble and gold accents, a vast glowing full moon over the roof, lotus ponds, luminous pink white trees, floating gold motes and clouds far below. Style: exquisite polished hand painted anime game environment, painterly detail, depth, luminous magical lighting. Composition: landscape 16:9, empty flat stone battle terrace across the lower quarter, scenery framing the sides, clear unobstructed middle for overlaying character sprites. No people, no creatures, no text, no logo, no interface, no watermark.",
+    "file": "assets/palace.png",
+    "tool": "Built-in ImageGen"
+  }
+]

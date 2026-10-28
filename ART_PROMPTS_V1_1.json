@@ -1,0 +1,96 @@
+[
+  {
+    "key": "enemy-slime",
+    "prompt": "Use case: stylized-concept. Asset type: individual enemy battle sprite for the original anime idle RPG Moonveil. Primary request: a charming translucent pink blossom slime with a mischievous face, a tiny sakura bonsai and pale flowers growing on its head, small gold shrine bell, glossy jelly body, glowing pink magic. Style: exquisite polished hand painted anime RPG game art, clean readable silhouette, fine costume and material details, luminous cel shading, matching a moonlit fantasy world. Composition: low round body, entire silhouette visible, isolated single character centered with generous clear margin around all extremities. Genuine transparent background, no ground plane, no shadow rectangle, no text, no typography, no interface, no watermark.",
+    "reference_images": null,
+    "file": "assets/enemy-slime.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "enemy-kodama",
+    "prompt": "Use case: stylized-concept. Asset type: individual enemy battle sprite for the original anime idle RPG Moonveil. Primary request: an enchanted little forest spirit with a smooth ivory wooden mask, jade green eyes, mossy antler branches, luminous cyan leaves, a cloak of layered forest leaves, floating jade beads, stubby wooden legs. Style: exquisite polished hand painted anime RPG game art, clean readable silhouette, fine costume and material details, luminous cel shading, matching a moonlit fantasy world. Composition: full body, three quarter pose facing left, isolated single character centered with generous clear margin around all extremities. Genuine transparent background, no ground plane, no shadow rectangle, no text, no typography, no interface, no watermark.",
+    "reference_images": null,
+    "file": "assets/enemy-kodama.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "enemy-moth",
+    "prompt": "Use case: stylized-concept. Asset type: individual enemy battle sprite for the original anime idle RPG Moonveil. Primary request: an ethereal giant moon moth with elaborate symmetrical indigo and violet wings, luminous cyan constellation patterns, crescent shaped gold antennae and a fluffy ivory body, sparkling dream dust. Style: exquisite polished hand painted anime RPG game art, clean readable silhouette, fine costume and material details, luminous cel shading, matching a moonlit fantasy world. Composition: wings spread, entire wingspan visible, isolated single character centered with generous clear margin around all extremities. Genuine transparent background, no ground plane, no shadow rectangle, no text, no typography, no interface, no watermark.",
+    "reference_images": null,
+    "file": "assets/enemy-moth.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "enemy-lantern",
+    "prompt": "Use case: stylized-concept. Asset type: individual enemy battle sprite for the original anime idle RPG Moonveil. Primary request: a playful floating Japanese lantern yokai, ornate round crimson paper lantern with a golden crescent face, turquoise spirit flame inside, black and brass mechanical limbs, long silky tassels and floating gold talismans. Style: exquisite polished hand painted anime RPG game art, clean readable silhouette, fine costume and material details, luminous cel shading, matching a moonlit fantasy world. Composition: entire creature and tassels visible, facing left, isolated single character centered with generous clear margin around all extremities. Genuine transparent background, no ground plane, no shadow rectangle, no text, no typography, no interface, no watermark.",
+    "reference_images": null,
+    "file": "assets/enemy-lantern.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "enemy-golem",
+    "prompt": "Use case: stylized-concept. Asset type: individual enemy battle sprite for the original anime idle RPG Moonveil. Primary request: a powerful hulking ancient stone guardian golem, chunky dark mossy stone armor with jade crystals and glowing teal runes, ivory shrine mask face, huge floating stone fists, curved temple roof shoulder plates, luminous ring behind its head. Style: exquisite polished hand painted anime RPG game art, clean readable silhouette, fine costume and material details, luminous cel shading, matching a moonlit fantasy world. Composition: full body, strong readable silhouette, facing left, isolated single character centered with generous clear margin around all extremities. Genuine transparent background, no ground plane, no shadow rectangle, no text, no typography, no interface, no watermark.",
+    "reference_images": null,
+    "file": "assets/enemy-golem.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "enemy-oni",
+    "prompt": "Use case: stylized-concept. Asset type: individual enemy battle sprite for the original anime idle RPG Moonveil. Primary request: a formidable adult armored red oni samurai spirit, elegant black and gold lamellar armor, two curved ivory horns, blazing amber eyes, crimson mane, carrying a large ornate iron kanabo with glowing ember cracks, flames licking around his feet. Style: exquisite polished hand painted anime RPG game art, clean readable silhouette, fine costume and material details, luminous cel shading, matching a moonlit fantasy world. Composition: full body, three quarter combat stance facing left, isolated single character centered with generous clear margin around all extremities. Genuine transparent background, no ground plane, no shadow rectangle, no text, no typography, no interface, no watermark.",
+    "reference_images": null,
+    "file": "assets/enemy-oni.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "enemy-dragon",
+    "prompt": "Use case: stylized-concept. Asset type: individual enemy battle sprite for the original anime idle RPG Moonveil. Primary request: a majestic long serpentine celestial eastern dragon coiled into a compact S curve, pearl white and midnight blue scales, flowing violet mane and golden antlers, glowing turquoise moon pearl between its claws, radiant crescent halo. Style: exquisite polished hand painted anime RPG game art, clean readable silhouette, fine costume and material details, luminous cel shading, matching a moonlit fantasy world. Composition: entire dragon including tail and antlers visible, head facing left, isolated single character centered with generous clear margin around all extremities. Genuine transparent background, no ground plane, no shadow rectangle, no text, no typography, no interface, no watermark.",
+    "reference_images": null,
+    "file": "assets/enemy-dragon.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "party-ren",
+    "prompt": "Use case: stylized-concept. Asset type: full body companion battle sprite for the original anime idle RPG Moonveil. Input image: character identity and costume reference, not a crop target. Primary request: create a NEW full body head-to-toe battle illustration of the exact adult character in the reference. Preserve their recognizable face, hair, palette, ornaments and costume. Extend the outfit into an elegant complete fantasy combat costume with visible footwear. Three quarter standing battle-ready pose facing RIGHT, hands and signature magical object or weapon visible. Ren holds his katana; Mizuki conjures a water orb; Akari carries her glowing lantern; Yoru summons his violet dream crystal; Tsukiko channels gold moon magic (use only the appropriate character's equipment from this reference). Style: polished hand painted anime RPG sprite, crisp silhouette, fine elegant detail and cel shading. Entire person, hair, weapon and feet fully in frame, generous transparent margins on all four sides. Single character centered on genuinely transparent background. No ground, no text, no interface, no watermark.",
+    "reference_images": [
+      "assets/ren.png"
+    ],
+    "file": "assets/party-ren.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "party-mizuki",
+    "prompt": "Use case: stylized-concept. Asset type: full body companion battle sprite for the original anime idle RPG Moonveil. Input image: character identity and costume reference, not a crop target. Primary request: create a NEW full body head-to-toe battle illustration of the exact adult character in the reference. Preserve their recognizable face, hair, palette, ornaments and costume. Extend the outfit into an elegant complete fantasy combat costume with visible footwear. Three quarter standing battle-ready pose facing RIGHT, hands and signature magical object or weapon visible. Ren holds his katana; Mizuki conjures a water orb; Akari carries her glowing lantern; Yoru summons his violet dream crystal; Tsukiko channels gold moon magic (use only the appropriate character's equipment from this reference). Style: polished hand painted anime RPG sprite, crisp silhouette, fine elegant detail and cel shading. Entire person, hair, weapon and feet fully in frame, generous transparent margins on all four sides. Single character centered on genuinely transparent background. No ground, no text, no interface, no watermark.",
+    "reference_images": [
+      "assets/mizuki.png"
+    ],
+    "file": "assets/party-mizuki.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "party-akari",
+    "prompt": "Use case: stylized-concept. Asset type: full body companion battle sprite for the original anime idle RPG Moonveil. Input image: character identity and costume reference, not a crop target. Primary request: create a NEW full body head-to-toe battle illustration of the exact adult character in the reference. Preserve their recognizable face, hair, palette, ornaments and costume. Extend the outfit into an elegant complete fantasy combat costume with visible footwear. Three quarter standing battle-ready pose facing RIGHT, hands and signature magical object or weapon visible. Ren holds his katana; Mizuki conjures a water orb; Akari carries her glowing lantern; Yoru summons his violet dream crystal; Tsukiko channels gold moon magic (use only the appropriate character's equipment from this reference). Style: polished hand painted anime RPG sprite, crisp silhouette, fine elegant detail and cel shading. Entire person, hair, weapon and feet fully in frame, generous transparent margins on all four sides. Single character centered on genuinely transparent background. No ground, no text, no interface, no watermark.",
+    "reference_images": [
+      "assets/akari.png"
+    ],
+    "file": "assets/party-akari.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "party-yoru",
+    "prompt": "Use case: stylized-concept. Asset type: full body companion battle sprite for the original anime idle RPG Moonveil. Input image: character identity and costume reference, not a crop target. Primary request: create a NEW full body head-to-toe battle illustration of the exact adult character in the reference. Preserve their recognizable face, hair, palette, ornaments and costume. Extend the outfit into an elegant complete fantasy combat costume with visible footwear. Three quarter standing battle-ready pose facing RIGHT, hands and signature magical object or weapon visible. Ren holds his katana; Mizuki conjures a water orb; Akari carries her glowing lantern; Yoru summons his violet dream crystal; Tsukiko channels gold moon magic (use only the appropriate character's equipment from this reference). Style: polished hand painted anime RPG sprite, crisp silhouette, fine elegant detail and cel shading. Entire person, hair, weapon and feet fully in frame, generous transparent margins on all four sides. Single character centered on genuinely transparent background. No ground, no text, no interface, no watermark.",
+    "reference_images": [
+      "assets/yoru.png"
+    ],
+    "file": "assets/party-yoru.png",
+    "tool": "Built-in ImageGen"
+  },
+  {
+    "key": "party-tsukiko",
+    "prompt": "Use case: stylized-concept. Asset type: full body companion battle sprite for the original anime idle RPG Moonveil. Input image: character identity and costume reference, not a crop target. Primary request: create a NEW full body head-to-toe battle illustration of the exact adult character in the reference. Preserve their recognizable face, hair, palette, ornaments and costume. Extend the outfit into an elegant complete fantasy combat costume with visible footwear. Three quarter standing battle-ready pose facing RIGHT, hands and signature magical object or weapon visible. Ren holds his katana; Mizuki conjures a water orb; Akari carries her glowing lantern; Yoru summons his violet dream crystal; Tsukiko channels gold moon magic (use only the appropriate character's equipment from this reference). Style: polished hand painted anime RPG sprite, crisp silhouette, fine elegant detail and cel shading. Entire person, hair, weapon and feet fully in frame, generous transparent margins on all four sides. Single character centered on genuinely transparent background. No ground, no text, no interface, no watermark.",
+    "reference_images": [
+      "assets/tsukiko.png"
+    ],
+    "file": "assets/party-tsukiko.png",
+    "tool": "Built-in ImageGen"
+  }
+]

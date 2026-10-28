@@ -1,0 +1,11 @@
+/target
+.DS_Store
+/Moonveil.app
+/work
+/dist
+/.env
+/.env.*
+!/.env.example
+/save.json
+*.log
+
